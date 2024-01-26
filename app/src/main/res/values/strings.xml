@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TBC_Test8_Sidebar</string>
+    <string name="company_name">Fyneen</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="ganti_model_gelap">Ganti Model Gelap</string>
+    <string name="davit_okruashvili">Davit Okruashvili</string>
+    <string name="okr_dato_gmail_com">okr.dato@gmail.com</string>
+</resources>

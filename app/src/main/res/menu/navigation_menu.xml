@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/nav_pesan"
+        android:icon="@drawable/ic_mail"
+        android:title="Pesan" />
+
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifikasi" />
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title="Kalendar" />
+
+    <item
+        android:id="@+id/nav_statistic"
+        android:icon="@drawable/ic_statistics"
+        android:title="Statistik" />
+
+    <item
+        android:id="@+id/nav_options"
+        android:icon="@drawable/ic_settings"
+        android:title="Pengaturan" />
+
+</menu>
